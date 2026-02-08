@@ -45,8 +45,8 @@ nav ul li a:hover {
 }
 
 .header img {
-    width: 230px;
-    height: 230px;
+    width: 330px;
+    height: 330px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 15px;
@@ -227,4 +227,5 @@ footer {
 .fade-in.show {
     opacity: 1;
     transform: translateY(0);
+
 }
